@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global variables */
+:root {
+    --brand-bg: #003366;
+    --bg-light: #FAFAFC;
+    --bg-orange: #FF6600;
+    --bg-light-grey: #F3F5F9;
+    --white-font: #FFFFFF;
+    --black-font: #000000;
+    --button: #1B7FED;
+    --theme: #ffffff;
+    /* footer color  */
+    --bg-grey: #F5F5F5;
+    --footer: #39474F;
+}
