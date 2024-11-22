@@ -26,3 +26,15 @@ Check out the live demo here: https://electronic-e-commerce.vercel.app/
 - **React Router**: For navigation.
 
 ---
+
+## 🙌 Inspiration and Attempt to Clone
+
+This project is an attempt to recreate the design and functionality of [Digital Sahuji](https://www.digitalsahuji.com/).  
+While this is not a perfect replica, it represents my effort to learn and apply concepts like:
+
+- Responsive layouts
+- Navigation between pages
+- Using React components and Tailwind CSS for styling
+
+Special thanks to the original website creators for their inspiring work!
+
