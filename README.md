@@ -15,7 +15,7 @@ This is a frontend-only e-commerce website designed for selling electronic produ
 
 ## 🚀 Live Demo
 
-Check out the live demo here: [Live Demo Link](https://your-live-demo-link.com](https://electronic-e-commerce.vercel.app/)
+Check out the live demo here: https://electronic-e-commerce.vercel.app/
 
 ---
 
